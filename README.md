@@ -1,6 +1,6 @@
 # Zast.ai Issues Tracker
 
-Welcome to the zast.ai Issue Tracker repository! This repository is dedicated to receiving and storing issues and suggestions from users of the zast.ai vulnerability assessment platform.
+Welcome to the zast.ai Issues Tracker repository! This repository is dedicated to receiving and storing issues and suggestions from users of the zast.ai vulnerability assessment platform.
 
 ## How to Submit an Issue
 
