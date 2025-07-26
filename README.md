@@ -16,7 +16,7 @@ Welcome to the zast.ai Issues Tracker repository! This repository is dedicated t
      - Relevant screenshots (if any)
      - Browser and version information
 
-3. **Labels and Assignment**: Our team will assign appropriate labels and a responsible team member to the issue.
+3. **Labels and Assignment**: Our team will assign appropriate labels and a responsible team member to the issues.
 
 ## Issue Template
 
